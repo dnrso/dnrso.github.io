@@ -1,5 +1,6 @@
 ---
 title: Pillow Image open() 함수와 Lazy Operation
+date: 2024-04-15 10:16:00
 categories: [Python, Pillow]
 tags: [Pillow,이미지,코딩]     # TAG names should always be lowercase
 ---
