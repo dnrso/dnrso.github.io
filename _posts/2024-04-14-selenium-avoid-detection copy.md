@@ -1,5 +1,6 @@
 ---
 title: 셀레니움 탐지 기본적인 회피 코드
+date: 2024-04-14 21:16:00
 categories: [Python, Selenium]
 tags: [Selenium,크롤링,코딩]     # TAG names should always be lowercase
 ---
