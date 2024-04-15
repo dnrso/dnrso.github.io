@@ -46,7 +46,7 @@ social:
 
 # Site Verification Settings meta name="google-site-verification" content="-QXnTm3TDDrTmWhQmag2QUPs7uNhg_-3e9F4d__SLJM"
 webmaster_verifications:
-  google:-QXnTm3TDDrTmWhQmag2QUPs7uNhg_-3e9F4d__SLJM
+  google: -QXnTm3TDDrTmWhQmag2QUPs7uNhg_-3e9F4d__SLJM
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
